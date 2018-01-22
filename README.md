@@ -1,0 +1,1 @@
+# aws-spi-static-content
